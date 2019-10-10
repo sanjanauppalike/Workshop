@@ -1,0 +1,5 @@
+git init : for initialising the git
+git --version
+dir -al : to list all the git files
+
+git status - tells about the dir,commits
